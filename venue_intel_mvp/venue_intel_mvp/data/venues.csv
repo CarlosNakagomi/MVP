@@ -1,0 +1,6 @@
+venue_id,venue_name,city,borough,neighborhood,capacity,timezone,lat,lon
+1,Venue 1,Vancouver,Central,Downtown,380,America/Vancouver,49.277500079468794,-123.11694774402096
+2,Venue 2,Vancouver,East,Commercial Drive,996,America/Vancouver,49.27820282358196,-123.07945517594327
+3,Venue 3,Vancouver,West,Kitsilano,773,America/Vancouver,49.26923920201583,-123.16968121296172
+4,Venue 4,Burnaby,Metrotown,Central Park,1178,America/Vancouver,49.22961599421248,-123.00886521963787
+5,Venue 5,Richmond,City Centre,Brighouse,750,America/Vancouver,49.170488959677144,-123.13326984651219
